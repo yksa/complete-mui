@@ -15,7 +15,6 @@ const useStyles = makeStyles({
 
 export default function SideMenu() {
     const classes = useStyles();
-    console.log(classes)
     return (
         <div className={classes.sideMenu}>
         </ div>
